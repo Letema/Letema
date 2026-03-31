@@ -11,7 +11,8 @@
 - html
 - Css
 - Javascript
-
+- C++
+- Java
 ## Current Projects
 - git and github(link) — short description
 
