@@ -1,7 +1,7 @@
 # Hi, I'm Letema Kutto
 
 ## About Me
-- I'm currently learning computer programming at IYF
+- I'm currently learning computer programming at IYF College
 - I'm interested in App development, web development, and data science.
 - I'm looking to collaborate on beginner-friendly open source projects
 
