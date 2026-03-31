@@ -1,4 +1,4 @@
-# Hi, I'm Letema kutto
+# Hi, I'm Letema Kutto
 
 ## About Me
 - I'm currently learning computer programming at IYF
