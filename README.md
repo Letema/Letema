@@ -14,7 +14,7 @@
 - C++
 - Java
 ## Current Projects
-- git and github(link) — short description
+- javascript — short description
 
 ## How to Reach Me
 - Email: letemakutto00@gmail.com
