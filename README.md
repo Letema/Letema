@@ -1,4 +1,4 @@
-### Hi, I'm Letema Kutto
+## Hi, I'm Letema Kutto
 
 ## About Me
 
@@ -6,6 +6,7 @@ I'm currently learning computer programming at IYF College
 I'm interested in App development, web development, and data science.
 I'm looking to collaborate on beginner-friendly open source projects
 ### Skills I'm Building
+
 Git and GitHub
 Python
 html
@@ -16,5 +17,6 @@ Java
 Current Projects
 javascript — short description
 ### How to Reach Me
+
 Email: letemakutto00@gmail.com
 LinkedIn: www.linkedin.com/in/ letema-kutto-7a0b553ab
