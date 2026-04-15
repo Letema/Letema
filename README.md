@@ -17,4 +17,4 @@
 
 ## How to Reach Me
 - Email: letemakutto00@gmail.com
-- LinkedIn: www.linkedin.com/in/ letema-kutto-7a0b553ab
+- LinkedIn: www.linkedin.com/in/ letema-kutto
