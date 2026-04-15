@@ -16,5 +16,5 @@
 - ForexRisk Calculator -A simple python basedtoolthat helps traders to improve trading by risk management rules.
 
 ## How to Reach Me
-Email: letemakutto00@gmail.com
-LinkedIn: www.linkedin.com/in/ letema-kutto-7a0b553ab
+- Email: letemakutto00@gmail.com
+- LinkedIn: www.linkedin.com/in/ letema-kutto-7a0b553ab
